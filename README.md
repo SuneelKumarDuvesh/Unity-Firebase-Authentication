@@ -15,7 +15,7 @@ A robust, reusable, and extensible authentication system for Unity projects that
 - **Google Sign-In for Unity** package
 
 ## Setup Instructions
-1. Import the `.unitypackage` from the latest Release into your Unity project.
+1. Import the `.unitypackage`in your Unity project.
 2. Follow the setup guides for the Firebase and Google Sign-In SDKs.
 3. In your `Assets` window, create a folder named `Resources`.
 4. Inside `Resources`, right-click and select **Create > Authentication > Auth Config**.
